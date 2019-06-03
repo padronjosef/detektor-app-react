@@ -1,0 +1,12 @@
+.Navbar{
+  height: 10vh;
+  padding-top: .5em;
+  padding-left: 3em;
+  background-image: linear-gradient(to right top, #1a181a, #222123, #2b2a2b, #343334, #3d3d3d);
+  display: flex;
+}
+
+.Navbar_brand-logo{
+  height: 80%;
+}
+

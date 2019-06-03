@@ -1,0 +1,14 @@
+.Main-notfound {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  padding: 20vh 0;
+  background-color: #1A1A24;
+  color: #FEFEFE;
+}
+
+.Notfound-img {
+  max-width: 200px;
+}
